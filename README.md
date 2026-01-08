@@ -16,6 +16,10 @@ An interactive Streamlit web application was developed to allow real-time predic
 ---
 
 ## Dataset
+2126 measurements extracted from cardiotocograms and classified by expert obstetricians, as described in:
+
+Ayres de Campos et al. (2000) SisPorto 2.0 A Program for Automated Analysis of Cardiotocograms. J Matern Fetal Med 5:311-318
+
 - Source: Cardiotocography (CTG) dataset
 - Samples: 2,126
 - Features: 21 numerical CTG parameters
